@@ -31,6 +31,11 @@
  <img  src="https://i.ibb.co/2Zx9MwP/ezgif-1-ec2e703377.png" width="300">
 </p>
 
+<p align="center">Bresenham Algorithm</p>
+<p align="center">
+ <img  src="https://i.ibb.co/pfTC2ff/ezgif-7-25586ead51.png">
+</p>
+
 <p align="center">Rectangle Rotating SDL</p>
 <p align="center">
  <img  src="https://i.ibb.co/BnNBB6x/ezgif-3-2d27bfcf95.gif">
